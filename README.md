@@ -14,7 +14,11 @@
     < stay safe 😷 Enjoy Chatting in Whatsapp 👸>
 </p>
     
-[![Website](https://telegra.ph/file/eef6c1934bd0aaf8e655e.jpg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FMrnimama%2FMizuki)
+<div align="center">
+	<h5>❱❱ Joka bosage guthub  එක fork කරලා හදාගත්තේ ❰❰</h5>
+	<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FMrnimama%2FMizuki">
+<img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="100"></br></a>
+</div>
 
 <p align="center">
   <a href="https://github.com/MrJoka-Thejaka/Mizuki">
